@@ -2,18 +2,12 @@
 
 === Advanced Custom Fields: Ingredients Field ===
 Contributors: Noam Jacobson
-Tags: Ingredients, Recipes
-Requires at least: 3.5
-Tested up to: 3.8.1
-Stable tag: trunk
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This custom field type is created to be used when you need ingredients for a recipe
+This Advanced Custom Field extension lets you create a list of ingredients for your Wordpress website.
 
 == Description ==
 
-EXTENDED_DESCRIPTION
+To use this plugin, first download ACF for your site.
 
 = Compatibility =
 
