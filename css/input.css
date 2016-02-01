@@ -1,0 +1,61 @@
+p.acf-ingredient-error {
+	color: #CC0000;
+}
+
+table.acf-ingredients-table {
+	
+}
+
+
+tr.acf-ingredient-row.new,
+div.field-options-measurement-unit.new {
+	opacity: 0.4;
+}
+
+tr.acf-ingredient-row.new button.remove,
+div.field-options-measurement-unit.new button.remove {
+	display: none;
+}
+
+tr.acf-ingredient-row td {
+/*	min-width: 100px;*/
+	padding-right: 20px;
+}
+
+tr.acf-ingredient-row td.quantity input[type=text] {
+/*	display: inline;*/
+/*	max-width: 50px;*/
+	width: 50px;
+	text-align: center;
+}
+
+tr.acf-ingredient-row td.measurements select {
+/*	display: inline;*/
+/*	max-width: 150px;*/
+}
+
+tr.acf-ingredient-row td.ingredient input[type=text] {
+/*	max-width: 200px;*/
+}
+
+tr.acf-ingredient-row button.remove,
+div.field-options-measurement-unit button.remove {
+/*	color: burlywood;*/
+	border: 1px solid #C6322A;
+	border-radius: 5px;
+	background-color: #D84a38;
+	color: #FFFFFF;
+	font-weight: 700;
+/*	width: 20px;*/
+/*	height: 20px;*/
+	padding: 5px 10px;
+}
+
+div.field-options-measurement-unit {
+	margin: 5px 0;
+}
+
+div.field-options-measurement-unit input[type=text] {
+	max-width: 200px;
+}
+
